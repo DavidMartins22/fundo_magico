@@ -65,7 +65,19 @@ Clone o repositório:
 
 ```Bash
 git clone [URL_DO_SEU_REPOSITORIO]
-Abra o arquivo: Abra o arquivo index.html no seu navegador. Não é necessário servidor local!
 ```
+Abra o arquivo: Abra o arquivo index.html no seu navegador. Não é necessário servidor local!
 
 Teste: Digite um prompt como: "Um gradiente de azul celeste para laranja pôr do sol com um padrão de ondas sutis" e clique em Gerar Background Mágico.
+---
+
+Quer Contribuir?
+Nosso Front-end é Vanilla JS. Quer levar este projeto para o próximo nível?
+
+Adicione um sistema de histórico para guardar os backgrounds gerados no localStorage.
+
+Melhore o tratamento de erros e mensagens para o usuário.
+
+Sinta-se à vontade para enviar um Pull Request!
+
+"O melhor código é aquele que gera algo novo." 🔮✨
