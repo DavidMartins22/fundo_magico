@@ -57,3 +57,15 @@ if(data.style) {
 Estilo Dark Mode: O CSS é desenhado para um ambiente dark mode (fundo #0f131a).
 
 Estrutura Simples: O HTML é focado na semântica e clareza, com seções dedicadas à entrada (main-card), ao preview (preview-card) e à saída do código (code-grid).
+---
+### 🚀 Como Executar
+Para ver a mágica em ação:
+
+Clone o repositório:
+
+Bash
+
+git clone [URL_DO_SEU_REPOSITORIO]
+Abra o arquivo: Abra o arquivo index.html no seu navegador. Não é necessário servidor local!
+
+Teste: Digite um prompt como: "Um gradiente de azul celeste para laranja pôr do sol com um padrão de ondas sutis" e clique em Gerar Background Mágico.
