@@ -63,9 +63,9 @@ Para ver a mágica em ação:
 
 Clone o repositório:
 
-Bash
-
+```Bash
 git clone [URL_DO_SEU_REPOSITORIO]
 Abra o arquivo: Abra o arquivo index.html no seu navegador. Não é necessário servidor local!
+```
 
 Teste: Digite um prompt como: "Um gradiente de azul celeste para laranja pôr do sol com um padrão de ondas sutis" e clique em Gerar Background Mágico.
