@@ -4,8 +4,6 @@
 
 Cansado de passar horas no CSS tentando acertar aquele gradiente perfeito? O projeto **Fundo Mágico** usa o poder da **Inteligência Artificial** para transformar uma simples descrição de texto em um **background HTML/CSS** pronto para ser usado. É o Front-end encontrando o futuro!
 
-> 🎓 **Missão Acadêmica (ADS):** Este projeto foi desenvolvido como um trabalho prático para a faculdade de **Análise e Desenvolvimento de Sistemas**. O foco era demonstrar a capacidade de construir uma aplicação web completa que integra as tecnologias básicas (**HTML, CSS, JavaScript**) com um serviço de **Backend/API (n8n)**, simulando a integração com um modelo de IA Generativa.
-
 ---
 
 ## 🛠️ Tecnologias Envolvidas (O Tripé Mágico)
